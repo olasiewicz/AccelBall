@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Accel Ball</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="startActivity_dialogPause_title">Pause</string>
+    <string name="startActivity_dialogExit_message">Back to game,  Back to menu,  or  Exit</string>
+    <string name="dialog_Exit">Exit</string>
+    <string name="dialog_Back">Back to Game</string>
+    <string name="dialog_Menu">Back to Menu</string>
+    <string name="startActivity_dialogReset_title">Reset Progress</string>
+    <string name="startActivity_dialogReset_message">Do you really want to restart your progress ?</string>
+    <string name="dialog_Restart">Restart</string>
+    <string name="dialog_Cancel">Cancel</string>
+
+</resources>
